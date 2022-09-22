@@ -3,20 +3,14 @@
   "RepositoryName": "Default Multiplayer/Lite Servers",
   "RepositoryDescription": "A collection of ServerHubs listed by default in the Beat Saber Multiplayer/Lite mods.",
   "Servers": [
-        {
-          "ServerName": "FUCK ME",
-          "ServerAddress": "Mineking35-23819.portmap.io",
-          "ServerPort": 23819
+        
       },
        {
           "ServerName": "sexxx",
           "ServerAddress": "test11213132.ddns.net",
           "ServerPort": 3700
       },
-      {
-          "ServerName": "Oceania Server Group - Sydney | BS",
-          "ServerAddress": "",
-          "ServerPort": 3700
+
       },
 	  {
           "ServerName": "Oceania Server Group - SunCoast | BS",
