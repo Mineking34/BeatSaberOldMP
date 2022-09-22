@@ -15,7 +15,7 @@
       },
       {
           "ServerName": "Oceania Server Group - Sydney | BS",
-          "ServerAddress": "osgs.ddns.net",
+          "ServerAddress": "localhost",
           "ServerPort": 3700
       },
 	  {
