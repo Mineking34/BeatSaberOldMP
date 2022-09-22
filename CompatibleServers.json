@@ -3,7 +3,10 @@
   "RepositoryName": "Default Multiplayer/Lite Servers",
   "RepositoryDescription": "A collection of ServerHubs listed by default in the Beat Saber Multiplayer/Lite mods.",
   "Servers": [
-        
+        {
+          "ServerName": "FUCK ME",
+          "ServerAddress": "172.58.162.255",
+          "ServerPort": 3700  
       },
        {
           "ServerName": "sexxx",
