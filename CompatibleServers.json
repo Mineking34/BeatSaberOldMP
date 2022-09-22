@@ -5,8 +5,8 @@
   "Servers": [
         {
           "ServerName": "FUCK ME",
-          "ServerAddress": "Mineking35-23819.portmap.io:23819",
-          "ServerPort": 3700
+          "ServerAddress": "Mineking35-23819.portmap.io",
+          "ServerPort": 23819
       },
        {
           "ServerName": "sexxx",
